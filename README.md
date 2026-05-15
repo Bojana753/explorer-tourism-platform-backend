@@ -81,6 +81,5 @@ dotnet ef database update
 dotnet run --project Explorer.API
 ```
 
-The API will be available at `https://localhost:{port}`.
-
+The API will be available at `https://localhost:44333`.
 > Seed scripts for each module are located in the `TestData` folder (`.sql` files).
